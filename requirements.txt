@@ -1,1 +1,4 @@
-
+streamlit
+pandas
+crewai
+crewai-tools
